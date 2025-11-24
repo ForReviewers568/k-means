@@ -2,7 +2,7 @@ Raw data: data_n_final.txt
 
 The columns are: size of dataset, epsilon, time, number of iterations, RSS, ARI, NMI
 
-The first line starting with "iterations" counts the number of trials that were used in computing, respectively, time, number of iterations, RSS, ARI, NMI.
+The first line starting with "iterations" counts the number of trials that were used in computing time, number of iterations, RSS, ARI, and NMI, respectively.
 
 
 
